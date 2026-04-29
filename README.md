@@ -19,7 +19,7 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ## Final Build
 
-![Robotic Arm Demo](Images/arm_demo.png)
+![Robotic Arm Demo](Images/arm_demo.jpeg)
 
 ## Demo Video
 
