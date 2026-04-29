@@ -21,11 +21,11 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ![Robotic Arm Demo](images/arm_demo.png)
 
-Demo video of the final response to inputted coordinates: (Videos\IK_Demo.MOV)
+Demo video of the final response to inputted coordinates: (Videos/IK_Demo.MOV)
 
-Real time control demo: (Videos\ManualControl_Demo.mov)
+[IK Demo Video](Videos/IK_Demo.MOV)
 
-CAD model: (Images\CADmodel.png)
+CAD model: (Images/CADmodel.png)
 
 
 ---
