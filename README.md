@@ -17,15 +17,17 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ---
 
-## Demo
+## Final Build
 
-![Robotic Arm Demo](images/arm_demo.png)
+![Robotic Arm Demo](Images/arm_demo.png)
 
-Demo video of the final response to inputted coordinates: (Videos/IK_Demo.MOV)
+## Demo Video
 
 [IK Demo Video](Videos/IK_Demo.MOV)
 
-CAD model: (Images/CADmodel.png)
+## CAD Model
+
+![CAD Model](Images/CADmodel.png)
 
 
 ---
