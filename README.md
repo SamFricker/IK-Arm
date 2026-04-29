@@ -73,29 +73,6 @@ The servos used for this project were inexpensive and not fit for application, t
 
 ---
 
-## Setup & Usage
-
-1. Clone the repository:
-
-```bash
-git clone <https://github.com/SamFricker/IK-Arm>
-cd IK-arm
-```
-
-2. Build the project:
-
-```bash
-g++ code/main.cpp -o arm
-```
-
-3. Run:
-
-```bash
-./arm
-```
-
----
-
 ## What I Learned
 
 * Applying kinematic theory to a real system
