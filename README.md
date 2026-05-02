@@ -24,7 +24,7 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ## Demo Video
 
-[IK Demo Video](Videos/IK_Demo.MOV)
+![IK Demo Video](Videos/IK_Demo.MOV)
 
 ## CAD Model
 
