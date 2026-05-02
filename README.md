@@ -42,19 +42,6 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ---
 
-## Project Structure
-
-```bash
-IK-Arm/
-├── CAD/        # 3D models and design files
-├── Code/       # C++ control and kinematics implementation
-├── Images/     # Screenshots and demo media
-├── Videos/     # Recordings of demonstrations
-├── README.md
-```
-
----
-
 ## Design & Build
 
 The mechanical structure of the arm was designed using Onshape CAD software, with consideration for joint movement, stability, range of motion, weight and material cost. The build process involved assembling the physical components and integrating actuators to enable controlled movement.
