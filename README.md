@@ -11,9 +11,8 @@ The rough working and step by step documentation can be viewed on the google sli
 ---
 
 ## Links
-
-* google slide documenting process: https://docs.google.com/presentation/d/11Yj7fBU4LIVXhnzH5_TuppZ-_PNuySzZH2yjffFqX7w/edit?usp=sharing
-* Onshape CAD file: https://cad.onshape.com/documents/37680dd26e3a28759b563309/w/ac908424e809403c105aca99/e/9a8b1e70a123fc365e53a634?renderMode=0&uiState=69f2589545160598825e1ce6
+[Google slide documenting process](https://docs.google.com/presentation/d/11Yj7fBU4LIVXhnzH5_TuppZ-_PNuySzZH2yjffFqX7w/edit?usp=sharing)
+[Onshape CAD file](https://cad.onshape.com/documents/37680dd26e3a28759b563309/w/ac908424e809403c105aca99/e/9a8b1e70a123fc365e53a634?renderMode=0&uiState=69f2589545160598825e1ce6)
 
 ---
 
