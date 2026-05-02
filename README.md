@@ -22,7 +22,7 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ![Robotic Arm Demo](Images/arm_demo.jpeg)
 
-## Demo Video
+## Demo Video (Click to play)
 
 [![IK Demo Video thumbnail](Images/Thumbnail2.png)](https://youtube.com/shorts/bh-hIgJWgIE)
 
