@@ -24,7 +24,7 @@ The rough working and step by step documentation can be viewed on the google sli
 
 ## Demo Video
 
-[![IK Demo Video thumbnail](Images/Thumbnail.png)](https://youtube.com/shorts/bh-hIgJWgIE)
+[![IK Demo Video thumbnail](Images/Thumbnail2.png)](https://youtube.com/shorts/bh-hIgJWgIE)
 
 ## CAD Model
 
